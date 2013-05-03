@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.yao_guet.test.ScrollLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollLayoutTest"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#99e2e2e2" >
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#99f2f2f2" >
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#99d2d2d2" >
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#99c2c2c2" >
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#99b2b2b2" >
+    </LinearLayout>
+
+</com.yao_guet.test.ScrollLayout>
